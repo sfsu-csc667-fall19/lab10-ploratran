@@ -4,6 +4,8 @@
   "description": "Hello world, in node with docker",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4"
+    "docker": "^1.0.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.19.4"
   }
 }
